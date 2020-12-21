@@ -50,5 +50,5 @@
 
 ### Programming Languages
 - [Write Yourself a Scheme in 48 Hours - An Introduction to Haskell through Example by Wikibooks contributors originally by Jonathan Tang](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf?fbclid=IwAR3XIN6jof36_5Vjc5x3ruHE2TM2P4COhPdU4Q2Xrvdb8e51G239TDN6i1A)
-- [Monads and GATS in nightly Rust by Michale snoyman](https://libhunt.com/ahoy/messages/HSVzh8JwUp1NoGeAnGYhSmWva6RgugS8/click?signature=f220840e82ba229d0341e142dc1c2321159dc22f&url=https%3A%2F%2Fwww.fpcomplete.com%2Fblog%2Fmonads-gats-nightly-rust)
--
+- [Monads and GATS in nightly Rust by Michale Snoyman](https://libhunt.com/ahoy/messages/HSVzh8JwUp1NoGeAnGYhSmWva6RgugS8/click?signature=f220840e82ba229d0341e142dc1c2321159dc22f&url=https%3A%2F%2Fwww.fpcomplete.com%2Fblog%2Fmonads-gats-nightly-rust)
+- [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
