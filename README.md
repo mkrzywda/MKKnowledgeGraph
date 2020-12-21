@@ -1,4 +1,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mackrzywda?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/mkrzywda/MKKnowledgeGraph?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mkrzywda/MKKnowledgeGraph?style=social)
+![GitHub](https://img.shields.io/github/license/mkrzywda/MKKnowledgeGraph?style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/mkrzywda/MKKnowledgeGraph)
+
 
 # What means MK Knowledge Graph
 
