@@ -1,6 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mackrzywda?style=social)
 
-# What means MK Knowledge Graph.
+# What means MK Knowledge Graph
 
 ![Logo](MK_KnowledgeGraph_Logo.png)
 
@@ -23,7 +23,7 @@ Rules:
 - it has to be interesting, 
 - this repository is not for advertising ourselves but for sharing the knowledge,
 - let is stick to template.
-- sharing information about new weekly in yours social media :smile:
+- share information about new weekly in yours social media :smile:
 
 
 
