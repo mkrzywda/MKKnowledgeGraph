@@ -22,7 +22,7 @@ Feel free to add your links (by pull requests) with update to [Upcoming](https:/
 Rules:
 - it has to be interesting, 
 - this repository is not for advertising ourselves but for sharing the knowledge,
-- let is stick to template.
+- let is stick to template,
 - share information about new weekly in yours social media :smile:
 
 
