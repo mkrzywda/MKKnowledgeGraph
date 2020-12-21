@@ -8,7 +8,7 @@ Hello!
 
 My name is [Maciej Krzywda](https://github.com/mkrzywda). I created this repository to share a weekly set of links that I found valuable and inspiring. I hope that you'll like it! 
 
-I looked for the best name for  space in which I like work and do research. Databases, Graph Algorithms and broadly understood Artificial Intelligence crossing with functional programming like Haskell is a topic in which I work daily. So, Graphs is the most humanity data structure because shows connection between nodes which representate area in which I working. 
+I looked for the best name for space in which I like work and do research. Databases, Graph Algorithms and broadly understood Artificial Intelligence crossing with functional programming like Haskell is a topics in which I work daily. So, Graphs which is the most humanity data structure (because shows connection between nodes which representate area in which I working) make the big Knowleadge Graph, so I think this is a the best name which I can think up :smile:
 
 So sum up **MK Knowledge Graph** is a space in you will be can find articles/sample of code about _Artificial Intelligence_, _Data Mining_, _Knowledge representation and reasoning_, _Ontology_, _Big Data_, _Databases_, _Graphs Algorithms_, _Neural Networks_, _Federated Learning_, _Programming Language_.
 
