@@ -3,7 +3,7 @@
 ## 29th December 2020
 
 ### Artificial Intelligence
--
+-[5 strategies for enterprise machine learning for 2021](https://www.kdnuggets.com/2020/12/5-strategies-enterprise-machine-learning-2021.html)
 -
 -
 
