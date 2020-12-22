@@ -11,7 +11,7 @@
 - [The State of Enterprise NLP in 2020](https://opendatascience.com/the-state-of-enterprise-nlp-in-2020/?utm_campaign=Newsletters&utm_medium=email&_hsmi=100220106&_hsenc=p2ANqtz-8ayqFBefPaDORluKSn0QlgcTdr65ZDiyzsbCrHV9O6D0WOPz903v3K6-VWF_bf6vSGg12JipRIrTZQ1ZoqhqOIp2vLd_zInzOalE7knyBqFezMSsE&utm_content=100220106&utm_source=hs_email)
 - [Understanding the Temporal Difference Learning and its Predication](https://opendatascience.com/understanding-the-temporal-difference-learning-and-its-predication/?utm_campaign=Newsletters&utm_medium=email&_hsmi=100220106&_hsenc=p2ANqtz-9okXOb7XN1jaD-_7vnEXtUnJgaLbtIodZHx8EiMorfvexNvGuBKeMoACl9QfA76pNeJPSmaYfeunV7ZI2sxrfQnQHkdb_SG4Ah9aVCk_pAO6mZrpo&utm_content=100220106&utm_source=hs_email)
 - [Solving for Unobserved Data in a Regression Model Using a Simple Data Adjustment](https://opendatascience.com/solving-for-unobserved-data-in-a-regression-model-using-a-simple-data-adjustment/?utm_campaign=Newsletters&utm_medium=email&_hsmi=100220106&_hsenc=p2ANqtz--cADqhDaG4da4OrN_LcGzLrnfRQP73HkmgOWBjX_aaWYg09BFCc7Q4D9Iu_a2Jg1A1pmrtUsiKrXBAFNgYMZH_z4kq93ZqSj2Ei4uHu2j1yQQ0wWA&utm_content=100220106&utm_source=hs_email)
-
+- [Artificial intelligence solves Schrödinger's equation](https://phys.org/news/2020-12-artificial-intelligence-schrdinger-equation.html?fbclid=IwAR1AqgjoVaRNMb5JIYnm7A4dEMS0gCh-_87dHgWulxlBMxS0Jpr_NC8s4_M)
 
 ### Data Mining
 -
