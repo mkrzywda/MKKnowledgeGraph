@@ -14,17 +14,17 @@
 - [Artificial intelligence solves Schrödinger's equation](https://phys.org/news/2020-12-artificial-intelligence-schrdinger-equation.html?fbclid=IwAR1AqgjoVaRNMb5JIYnm7A4dEMS0gCh-_87dHgWulxlBMxS0Jpr_NC8s4_M)
 
 ### Data Mining
-- [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore-1ieee-1org-1000047u50047.wbg2.bg.agh.edu.pl/document/9196238)
+- [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore.ieee.org/abstract/document/9196238)
 -
 -
 
 ### Knowledge representation and reasoning
-- [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore-1ieee-1org-1000047u50044.wbg2.bg.agh.edu.pl/document/5486715)
+- [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
 -
 -
 ### Ontology
-- [Ontology-aided Word2vec based Synonym Identification for Ontology Alignment](https://ieeexplore-1ieee-1org-1000047u50047.wbg2.bg.agh.edu.pl/document/9070601)
-- [Application of Ontology Matching Algorithm in Linguistic Features](https://ieeexplore-1ieee-1org-1000047u50047.wbg2.bg.agh.edu.pl/document/9202191)
+- [Ontology-aided Word2vec based Synonym Identification for Ontology Alignment](https://ieeexplore.ieee.org/document/9070601)
+- [Application of Ontology Matching Algorithm in Linguistic Features](https://ieeexplore.ieee.org/document/9202191)
 
 ### Big Data
 - 
