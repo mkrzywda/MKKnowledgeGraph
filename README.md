@@ -37,7 +37,7 @@ Rules:
 - 
 
 # To be published
-- [29st December 2020](weekly/2020-12-29.md)
+- [29th December 2020](weekly/2020-12-29.md)
 
 ------
 
