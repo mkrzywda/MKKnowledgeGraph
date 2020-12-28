@@ -33,11 +33,11 @@ Rules:
 
 
 # Already Published
+- [29th December 2020](weekly/29-12-2020.md)
 
-- 
 
 # To be published
-- [29th December 2020](weekly/2020-12-29.md)
+- [5th January 2021](weekly/01-05-2021.md)
 
 ------
 
