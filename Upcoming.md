@@ -15,19 +15,19 @@
 
 ### Data Mining
 - [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore.ieee.org/abstract/document/9196238)
--
+- [Mining explainable local and global subgraph patterns with surprising densities by Junning Deng, Bo Kang, Jefrey Lijffijt & Tijl De Bie](https://link.springer.com/article/10.1007/s10618-020-00721-9)
 -
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
--
+- [Variational auto-encoder based Bayesian Poisson tensor factorization for sparse and imbalanced count data by Yuan Jin, Ming Liu, Yunfeng Li, Ruohua Xu, Lan Du, Longxiang Gao & Yong Xiang ](https://link.springer.com/article/10.1007/s10618-020-00723-7)
 -
 ### Ontology
 - [Ontology-aided Word2vec based Synonym Identification for Ontology Alignment](https://ieeexplore.ieee.org/document/9070601)
 - [Application of Ontology Matching Algorithm in Linguistic Features](https://ieeexplore.ieee.org/document/9202191)
 
 ### Big Data
-- 
+- [Arabic text summarization using deep learning approach by Molham Al-Maleh & Said Desouki](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00386-7)
 -
 -
 
@@ -42,7 +42,9 @@
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
 - [Decades-Old Graph Problem Yields to Amateur Mathematician](https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/)
--
+- [Ontology-Mediated SPARQL Query Answering over Knowledge Graphs by Guohui Xiao & JulienCorman](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300459)
+- [Search History Visualization for Collaborative Web Searching by Luyan Xu &Tetiana Tolmochava & XuanZhou ](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300484)
+- [JECI++: A Modified Joint Knowledge Graph Embedding Model for Concepts and Instances  Author links open overlay panel by Peng Wanga & Jing Zhou](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300289)
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
