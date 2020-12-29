@@ -53,6 +53,6 @@
 - 
 
 ### Other
-- 
+- [GraphQL vs REST: What to Choose in 2020?](https://softwareplanetgroup.co.uk/graphql-vs-rest-what-to-choose-in-2020/)
 - 
 - 
