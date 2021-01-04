@@ -43,16 +43,17 @@
 - 
 
 ### Federated Learning
-- 
+- [The future of digital health with federated learning](https://www.nature.com/articles/s41746-020-00323-1)
 - 
 - 
 
 ### Programming Languages
-- 
+- [Beam Python SDK’s - Beam 2.26.0](https://beam.apache.org/blog/dataframe-api-preview-available/)
 - 
 - 
 
 ### Other
 - [GraphQL vs REST: What to Choose in 2020?](https://softwareplanetgroup.co.uk/graphql-vs-rest-what-to-choose-in-2020/)
+- [2020 State of the API Report](https://www.postman.com/state-of-api/)
 - 
 - 
