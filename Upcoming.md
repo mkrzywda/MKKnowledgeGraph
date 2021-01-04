@@ -40,6 +40,7 @@
 - 
 
 ### Neural Networks
+- [Explainability in Graph Neural Networks: A Taxonomic Survey by Hao Yuan](https://arxiv.org/pdf/2012.15445v1.pdf)
 - [Geometric ML becomes real in fundamental sciences](https://towardsdatascience.com/geometric-ml-becomes-real-in-fundamental-sciences-3b0d109883b5?source=social.tw)
 - 
 - 
