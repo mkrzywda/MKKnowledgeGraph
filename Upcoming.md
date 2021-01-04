@@ -30,7 +30,7 @@
 
 
 ### Databases
-- 
+- [Rewriting SQL Queries with Pandas](https://towardsdatascience.com/rewriting-sql-queries-with-pandas-ac08d9f054ec?source=social.tw)
 - 
 - 
 
