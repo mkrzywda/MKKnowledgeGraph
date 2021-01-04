@@ -14,6 +14,7 @@
 - [K-Means Clustering and PCA to categorize music by similar audio features](https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw)
 - 
 - 
+
 ### Knowledge representation and reasoning
 - 
 - 
@@ -54,6 +55,7 @@
 - 
 
 ### Programming Languages
+- [Haskell Problems For a New Decade](https://www.stephendiehl.com/posts/decade.html)
 - [Beam Python SDK’s - Beam 2.26.0](https://beam.apache.org/blog/dataframe-api-preview-available/)
 - 
 - 
