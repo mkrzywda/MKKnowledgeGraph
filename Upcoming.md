@@ -48,7 +48,7 @@
 - 
 
 ### Programming Languages
-- 
+- [Haskell Problems For a New Decade](https://www.stephendiehl.com/posts/decade.html)
 - 
 - 
 
