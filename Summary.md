@@ -29,6 +29,13 @@
 - [54 Predictions About The State Of Data In 2021](https://www.forbes.com/sites/gilpress/2021/12/30/54-predictions-about-the-state-of-data-in-2021/?sh=6ba6af7a397d)
 - [Generalized Categorisation of Digital Pathology Whole Image Slides using Unsupervised Learning](https://towardsdatascience.com/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c?source=social.tw)
 - [DynaSent: A Dynamic Benchmark for Sentiment Analysis by Christopher](https://arxiv.org/pdf/2012.15349v1.pdf)
+- [Why Robustness is not Enough for Safety and Security in Machine Learning](https://towardsdatascience.com/why-robustness-is-not-enough-for-safety-and-security-in-machine-learning-1a35f6706601)
+- [Using NLP and ML to look at Election 2020 Twitter Data by Sami Ullah](https://www.kineviz.com/blog/2020/12/11/using-nlp-and-ml-to-look-at-election-2020-twitter-data)
+- [Analyzing Election 2020 with an Automated Big Data Platform by Seung Jung Jin](https://www.kineviz.com/blog/2020/12/29/analyzing-election-2020-with-an-automated-big-data-platform)
+- [Adaptive Synthetic Characters for Military Training by Volkan Ustun](https://arxiv.org/pdf/2101.02185v1.pdf)
+- [How to generate super resolution images using TensorFlow Lite on Android by Wei Wei  ](https://blog.tensorflow.org/2020/12/how-to-generate-super-resolution-images-using-tensorflow-lite-on-android.html)
+- [Predicting the outcome of NBA games with Machine Learning by Josh Weiner](https://towardsdatascience.com/predicting-the-outcome-of-nba-games-with-machine-learning-a810bb768f20)
+- [MIT Machine Learning Uses ‘Graph Grammar’ to Automate and Optimize Robot Design by Kimberley Mok](https://thenewstack.io/mit-machine-learning-uses-graph-grammar-to-automate-and-optimize-robot-design/)
 
 ### Data Mining
 - [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore.ieee.org/abstract/document/9196238)
@@ -46,6 +53,7 @@
 
 ### Big Data
 - [Arabic text summarization using deep learning approach by Molham Al-Maleh & Said Desouki](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00386-7)
+- [Send Cloud SQL Data to BigQuery](https://towardsdatascience.com/send-cloud-sql-data-to-bigquery-2603489a4330)
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)
@@ -54,6 +62,16 @@
 - [Comparing Fauna and DynamoDB by Evan Weaver](https://fauna.com/blog/comparing-fauna-and-dynamodb)
 - [Graph Database Benchmark Reports](https://www.tigergraph.com/benchmark/)
 - [Rewriting SQL Queries with Pandas](https://towardsdatascience.com/rewriting-sql-queries-with-pandas-ac08d9f054ec?source=social.tw)
+- [21 Reading Recommendations for 2021 by Deb Cameron](https://neo4j.com/blog/21-reading-recommendations-for-2021/)
+- [ArangoML Part 1: Where Graphs and Machine Learning Meet](https://www.arangodb.com/2020/09/arangoml-part-1-where-graphs-and-machine-learning-meet/)
+- [ArangoML Part 2: Basic Arangopipe Workflow](https://www.arangodb.com/2020/10/arangoml-part-2-basic-arangopipe-workflow/)
+- [ArangoML Part 3: Bootstrapping and Bias Variance](https://www.arangodb.com/2020/10/arangoml-part-3-bootstrapping-and-bias-variance/)
+- [ArangoML Part 4: Detecting Covariate Shift in Datasets](https://www.arangodb.com/2020/11/arangoml-part-4-detecting-covariate-shift-in-datasets/)
+- [Cloud Services for Graph Data Provisioning](https://static1.squarespace.com/static/5c58b86e8dfc8c2d0d700050/t/5f631145ec10ab07d2e4d88b/1600328027591/CLOUD+SERVICES+FOR+GRAPH+DATA+PROVISIONING.pdf)
+- [Amazon DocumentDB (with MongoDB compatibility) read autoscaling by Randy DeFauw](https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-read-autoscaling/)
+- [simple-graph: A Simple Graph Database on Top of SQLite](https://github.com/dpapathanasiou/simple-graph)
+- [Importing 100M+ Records into DynamoDB in Under 30 Minutes](https://towardsdatascience.com/dynamo-exports-may-get-your-data-out-but-this-is-still-the-fastest-way-to-move-data-in-5bcd9748cc00)
+
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
@@ -61,6 +79,8 @@
 - [Ontology-Mediated SPARQL Query Answering over Knowledge Graphs by Guohui Xiao & JulienCorman](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300459)
 - [Search History Visualization for Collaborative Web Searching by Luyan Xu &Tetiana Tolmochava & XuanZhou ](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300484)
 - [JECI++: A Modified Joint Knowledge Graph Embedding Model for Concepts and Instances  Author links open overlay panel by Peng Wanga & Jing Zhou](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300289)
+- [Exploring The MET Art Collections with Hume #1 by Antonin Smid](https://graphaware.com/hume/2020/12/10/exploring-the-met-art-collections.html)
+- [Exploring The MET Art Collections with Hume #2 by Antonin Smid](https://graphaware.com/hume/2021/01/06/exploring-the-met-art-collections-2.html)
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -71,6 +91,7 @@
 - [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Felipe Petroski Such, Vashisht Madhavan, Edoardo Conti, Joel Lehman, Kenneth O. Stanley, Jeff Clune](https://arxiv.org/abs/1712.06567)
 - [Explainability in Graph Neural Networks: A Taxonomic Survey by Hao Yuan](https://arxiv.org/pdf/2012.15445v1.pdf)
 - [Geometric ML becomes real in fundamental sciences](https://towardsdatascience.com/geometric-ml-becomes-real-in-fundamental-sciences-3b0d109883b5?source=social.tw)
+- [Constrained Block Nonlinear Neural Dynamical Models by Elliott Skomski](https://arxiv.org/pdf/2101.01864v1.pdf)
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -80,6 +101,7 @@
 - [Real-World Image Datasets for Federated Learning by iahuan Luo, Xueyang Wu, Yun Luo, Anbu Huang, Yun-Feng Huang, Yang Liu, Qiang Yang](https://arxiv.org/pdf/1910.11089v2.pdf)
 - [Federated Learning for Mobile Keyboard Prediction by Andrew Hard, Kanishka Rao, Rajiv Mathews, Swaroop Ramaswamy, Franc ̧oise Beaufays Sean Augenstein, Hubert Eichner, Chloe ́ Kiddon, Daniel Ramage](https://arxiv.org/pdf/1811.03604v2.pdf)
 - [The future of digital health with federated learning](https://www.nature.com/articles/s41746-020-00323-1)
+- [Federated Optimization: Distributed Machine Learning for On-Device Intelligence by Jakub Konecny, H. Brendan McMahan, Daniel Ramage, Peter Richtarik ](https://arxiv.org/pdf/1610.02527.pdf)
 
 ### Programming Language
 - [Write Yourself a Scheme in 48 Hours - An Introduction to Haskell through Example by Wikibooks contributors originally by Jonathan Tang](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf?fbclid=IwAR3XIN6jof36_5Vjc5x3ruHE2TM2P4COhPdU4Q2Xrvdb8e51G239TDN6i1A)

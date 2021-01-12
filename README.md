@@ -35,9 +35,10 @@ Rules:
 # Already Published
 - [29th December 2020](weekly/29-12-2020.md)
 - [5th January 2021](weekly/05-01-2021.md)
+- [12th January 2021](weekly/12-01-2021.md)
 
 # To be published
-- [12th January 2021](weekly/12-01-2021.md)
+- [19th January 2021](weekly/19-01-2021.md)
 
 ------
 
