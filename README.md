@@ -30,18 +30,17 @@ Rules:
 - let is stick to template,
 - share information about new weekly in yours social media :smile:
 
-
-
 # Already Published
 - [29th December 2020](weekly/29-12-2020.md)
 - [5th January 2021](weekly/05-01-2021.md)
 - [12th January 2021](weekly/12-01-2021.md)
+- [19th January 2021](weekly/19-01-2021.md)
 
 # To be published
-- [19th January 2021](weekly/19-01-2021.md)
+- [26th January 2021](weekly/26-01-2021.md)
 
 ------
 
 
 ----
-**MK Knowledge Graph** is Copyright &copy; 2020 [Maciej Krzywda](https://www.linkedin.com/in/maciej-krzywda/) and other contributors under the [MIT license](LICENSE).
+**MK Knowledge Graph** is Copyright &copy; 2021 [Maciej Krzywda](https://www.linkedin.com/in/maciej-krzywda/) and other contributors under the [MIT license](LICENSE).

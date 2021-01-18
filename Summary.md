@@ -36,11 +36,18 @@
 - [How to generate super resolution images using TensorFlow Lite on Android by Wei Wei  ](https://blog.tensorflow.org/2020/12/how-to-generate-super-resolution-images-using-tensorflow-lite-on-android.html)
 - [Predicting the outcome of NBA games with Machine Learning by Josh Weiner](https://towardsdatascience.com/predicting-the-outcome-of-nba-games-with-machine-learning-a810bb768f20)
 - [MIT Machine Learning Uses ‘Graph Grammar’ to Automate and Optimize Robot Design by Kimberley Mok](https://thenewstack.io/mit-machine-learning-uses-graph-grammar-to-automate-and-optimize-robot-design/)
+- [Creating a Discord Chat Bot with pyTigerGraph](https://www.tigergraph.com/blogs/community/creating-a-discord-chat-bot-with-pytigergraph/?utm_content=151560750&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
+- [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods by Kirill Veselkov, Guadalupe Gonzalez, Shahad Aljifri, Dieter Galea, Reza Mirnezami, Jozef Youssef, Michael Bronstein & Ivan Laponogov](https://www.nature.com/articles/s41598-019-45349-y)
+- [Faster AutoML with TPOT and RAPIDS by Nick Becker, Dante Gama Dessavre, and John Zedlewski](https://medium.com/rapids-ai/faster-automl-with-tpot-and-rapids-758455cd89e5) 
+- [Mitigating Gender Bias in Occupation Classification by Natasha Butt](https://towardsdatascience.com/mitigating-gender-bias-in-occupation-classification-805edb389729)
+- [Meta-Learning Requires Meta-Augmentation by Janarthanan Rajendran, Alex Irpan, Eric Jang](https://arxiv.org/pdf/2007.05549.pdf)
+- [Benchmarking Machine Learning: How Fast Can Your Algorithms Go? by Zeyu Ning](https://arxiv.org/pdf/2101.03219v1.pdf)
 
 ### Data Mining
 - [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore.ieee.org/abstract/document/9196238)
 - [Mining explainable local and global subgraph patterns with surprising densities by Junning Deng, Bo Kang, Jefrey Lijffijt & Tijl De Bie](https://link.springer.com/article/10.1007/s10618-020-00721-9)
 - [K-Means Clustering and PCA to categorize music by similar audio features](https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw)
+- [[PL] Rozpoznawanie obrazów medycznych – analiza zbioru medical MNIST](https://deepdrive.pl/rozpoznawanie-obrazow-medycznych-analiza-zbioru-medical-mnist/)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -71,7 +78,11 @@
 - [Amazon DocumentDB (with MongoDB compatibility) read autoscaling by Randy DeFauw](https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-read-autoscaling/)
 - [simple-graph: A Simple Graph Database on Top of SQLite](https://github.com/dpapathanasiou/simple-graph)
 - [Importing 100M+ Records into DynamoDB in Under 30 Minutes](https://towardsdatascience.com/dynamo-exports-may-get-your-data-out-but-this-is-still-the-fastest-way-to-move-data-in-5bcd9748cc00)
-
+- [Have The Tables Turned on NoSQL?](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
+- [MindsDB](https://github.com/mindsdb/mindsdb)
+- [MongoDB Schema Design Best Practices By Joe Karlsson](https://developer.mongodb.com/article/mongodb-schema-design-best-practices?utm_campaign=schemadesignbestpractice&utm_source=linkedin&utm_medium=organic_social)
+- [Benchmarking in-memory database by Cheqing JIN, Yangxin KONG, Qiangqiang KANG, Weining QIAN, Aoying ZHOU](https://link.springer.com/article/10.1007/s11704-016-5366-0)
+- [Oracle TimesTen: An In-Memory Databasefor Enterprise Applications by Tirthankar Lahiri, Marie-Anne Neimat, Steve Folkman](http://sites.computer.org/debull/A13june/TimesTen1.pdf)
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
@@ -81,6 +92,9 @@
 - [JECI++: A Modified Joint Knowledge Graph Embedding Model for Concepts and Instances  Author links open overlay panel by Peng Wanga & Jing Zhou](https://www.sciencedirect.com/science/article/abs/pii/S2214579620300289)
 - [Exploring The MET Art Collections with Hume #1 by Antonin Smid](https://graphaware.com/hume/2020/12/10/exploring-the-met-art-collections.html)
 - [Exploring The MET Art Collections with Hume #2 by Antonin Smid](https://graphaware.com/hume/2021/01/06/exploring-the-met-art-collections-2.html)
+- [HDBSCAN Clustering with Neo4j  by Nathan Smith](https://towardsdatascience.com/hdbscan-clustering-with-neo4j-57e0cec57560)
+- [Social Network Analysis: From Graph Theory to Applications with Python by Dima Goldenberg](https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7?source=social.tw)
+- [Link Prediction and Information Theory: A Tutorial by Edward Elson Kosasih](https://towardsdatascience.com/link-prediction-and-information-theory-a-tutorial-a67ecc73e7f9?source=social.tw)
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -113,3 +127,8 @@
 ### Others
 - [GraphQL vs REST: What to Choose in 2020?](https://softwareplanetgroup.co.uk/graphql-vs-rest-what-to-choose-in-2020/)
 - [2020 State of the API Report](https://www.postman.com/state-of-api/)
+- [Building Data Science GUI Apps with PySimpleGUI](https://towardsdatascience.com/building-data-science-gui-apps-with-pysimplegui-179db54a9a15)
+- [An autoML framework & toolkit for machine learning on graphs by THUMNLab](https://github.com/THUMNLab/AutoGL)
+- [Creating an interactive datetime filter with Pandas and Streamlit by M Khorasani](https://towardsdatascience.com/creating-an-interactive-datetime-filter-with-pandas-and-streamlit-2f6818e90aed?source=social.tw)
+- [Revisiting Numpy and ndarray by Revisiting Numpy and ndarray](https://towardsdatascience.com/revisiting-numpy-and-ndarray-e1e5f9a69791?source=social.tw)
+
