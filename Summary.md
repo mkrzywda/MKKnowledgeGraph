@@ -3,8 +3,6 @@
 - [All links](#all-links)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Knowledge representation and reasoning](#knowledge-representation-and-reasoning)
-  - [Ontology](#ontology)
-  - [Big Data](#big-data)
   - [Databases](#databases)
   - [Graphs Algorithms](#graphs-algorithms)
   - [Neural Networks](#neural-networks)
@@ -42,21 +40,18 @@
 - [Mitigating Gender Bias in Occupation Classification by Natasha Butt](https://towardsdatascience.com/mitigating-gender-bias-in-occupation-classification-805edb389729)
 - [Meta-Learning Requires Meta-Augmentation by Janarthanan Rajendran, Alex Irpan, Eric Jang](https://arxiv.org/pdf/2007.05549.pdf)
 - [Benchmarking Machine Learning: How Fast Can Your Algorithms Go? by Zeyu Ning](https://arxiv.org/pdf/2101.03219v1.pdf)
-#### Data Mining
 - [Data Mining of Popular Science Books Based on Web Crawler](https://ieeexplore.ieee.org/abstract/document/9196238)
 - [Mining explainable local and global subgraph patterns with surprising densities by Junning Deng, Bo Kang, Jefrey Lijffijt & Tijl De Bie](https://link.springer.com/article/10.1007/s10618-020-00721-9)
 - [K-Means Clustering and PCA to categorize music by similar audio features](https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw)
 - [[PL] Rozpoznawanie obrazów medycznych – analiza zbioru medical MNIST](https://deepdrive.pl/rozpoznawanie-obrazow-medycznych-analiza-zbioru-medical-mnist/)
-#### Knowledge representation and reasoning
+
+### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
 - [Variational auto-encoder based Bayesian Poisson tensor factorization for sparse and imbalanced count data by Yuan Jin, Ming Liu, Yunfeng Li, Ruohua Xu, Lan Du, Longxiang Gao & Yong Xiang ](https://link.springer.com/article/10.1007/s10618-020-00723-7)
-#### Ontology
 - [Ontology-aided Word2vec based Synonym Identification for Ontology Alignment](https://ieeexplore.ieee.org/document/9070601)
 - [Application of Ontology Matching Algorithm in Linguistic Features](https://ieeexplore.ieee.org/document/9202191)
 - [How Knowledge Graphs Will Transform Data Management And Business by by Jennifer L. Schenker](https://theinnovator.news/how-knowledge-graphs-will-transform-data-management-and-business/)
-#### Big Data
-- [Arabic text summarization using deep learning approach by Molham Al-Maleh & Said Desouki](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00386-7)
-- [Send Cloud SQL Data to BigQuery](https://towardsdatascience.com/send-cloud-sql-data-to-bigquery-2603489a4330)
+
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)

@@ -7,6 +7,10 @@
 - 
 - 
 
+##### Knowledge representation and reasoning
+- 
+- 
+- 
 
 ### Databases
 - 
@@ -32,6 +36,20 @@
 - 
 - 
 - 
+##### Rust
+- 
+- 
+- 
+##### Haskell
+- 
+- 
+- 
+##### Python
+- 
+- 
+- 
+##### C++
+
 
 
 ### Others
