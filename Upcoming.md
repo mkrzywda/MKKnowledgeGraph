@@ -7,7 +7,7 @@
 - 
 - 
 
-##### Knowledge representation and reasoning
+### Knowledge representation and reasoning
 - 
 - 
 - 
