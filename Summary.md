@@ -44,6 +44,8 @@
 - [Mining explainable local and global subgraph patterns with surprising densities by Junning Deng, Bo Kang, Jefrey Lijffijt & Tijl De Bie](https://link.springer.com/article/10.1007/s10618-020-00721-9)
 - [K-Means Clustering and PCA to categorize music by similar audio features](https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64?source=social.tw)
 - [[PL] Rozpoznawanie obrazów medycznych – analiza zbioru medical MNIST](https://deepdrive.pl/rozpoznawanie-obrazow-medycznych-analiza-zbioru-medical-mnist/)
+- [[MATLAB] Network Visualization Based on Occlusion Sensitivity](https://blogs.mathworks.com/deep-learning/2017/12/15/network-visualization-based-on-occlusion-sensitivity/?s_tid=blogs_rc_2)
+- [[MATLAB] Using Deep Learning for Complex Physical Processes Posted by Johanna Pingel](https://blogs.mathworks.com/deep-learning/2020/12/10/using-deep-learning-for-complex-physical-processes/)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -51,7 +53,8 @@
 - [Ontology-aided Word2vec based Synonym Identification for Ontology Alignment](https://ieeexplore.ieee.org/document/9070601)
 - [Application of Ontology Matching Algorithm in Linguistic Features](https://ieeexplore.ieee.org/document/9202191)
 - [How Knowledge Graphs Will Transform Data Management And Business by by Jennifer L. Schenker](https://theinnovator.news/how-knowledge-graphs-will-transform-data-management-and-business/)
-
+- [Grakn 2.0 Alpha: best practices of Distributed Systems and Computer Science](https://blog.grakn.ai/grakn-2-0-alpha-best-practices-of-distributed-systems-and-computer-science-960da9a9bc44)
+- [Language Models are Open Knowledge Graphs .. but are hard to mine!](https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d)
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)
@@ -74,6 +77,8 @@
 - [MongoDB Schema Design Best Practices By Joe Karlsson](https://developer.mongodb.com/article/mongodb-schema-design-best-practices?utm_campaign=schemadesignbestpractice&utm_source=linkedin&utm_medium=organic_social)
 - [Benchmarking in-memory database by Cheqing JIN, Yangxin KONG, Qiangqiang KANG, Weining QIAN, Aoying ZHOU](https://link.springer.com/article/10.1007/s11704-016-5366-0)
 - [Oracle TimesTen: An In-Memory Databasefor Enterprise Applications by Tirthankar Lahiri, Marie-Anne Neimat, Steve Folkman](http://sites.computer.org/debull/A13june/TimesTen1.pdf)
+- [Memgraph Playground](https://playground.memgraph.com)
+- [Graph Databases For Dummies by Dr. Jim Webber and Rik Van Bruggen](https://neo4j.com/graph-databases-for-dummies/?ref=blog)
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
@@ -86,6 +91,9 @@
 - [HDBSCAN Clustering with Neo4j  by Nathan Smith](https://towardsdatascience.com/hdbscan-clustering-with-neo4j-57e0cec57560)
 - [Social Network Analysis: From Graph Theory to Applications with Python by Dima Goldenberg](https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7?source=social.tw)
 - [Link Prediction and Information Theory: A Tutorial by Edward Elson Kosasih](https://towardsdatascience.com/link-prediction-and-information-theory-a-tutorial-a67ecc73e7f9?source=social.tw)
+- [Graph Data Science For Dummies by Amy Hodler and Mark Needham](https://neo4j.com/graph-data-science-for-dummies/?ref=blog))
+- [Class Imbalance and Cost-Sensitive Decision Trees: A Unified Survey Based on a Core Similarity by Michael J. Siers, Zahidul Islam](https://dl.acm.org/doi/abs/10.1145/3415156)
+- [Scalable Pattern Matching in Metadata Graphs via Constraint Checking by Tahsin Reza, Hassan Halawa, Matei Ripeanu, Geoffrey Sanders and Roger A. Pearce](https://dl.acm.org/doi/pdf/10.1145/3434391)
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -97,6 +105,11 @@
 - [Explainability in Graph Neural Networks: A Taxonomic Survey by Hao Yuan](https://arxiv.org/pdf/2012.15445v1.pdf)
 - [Geometric ML becomes real in fundamental sciences](https://towardsdatascience.com/geometric-ml-becomes-real-in-fundamental-sciences-3b0d109883b5?source=social.tw)
 - [Constrained Block Nonlinear Neural Dynamical Models by Elliott Skomski](https://arxiv.org/pdf/2101.01864v1.pdf)
+- [Graph Neural Networks for Multi-Relational Data](https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-27968a2ed143)
+- [InShort: Occlusion Analysis for Explaining DNNs](https://towardsdatascience.com/inshort-occlusion-analysis-for-explaining-dnns-d0ad3af9aeb6)
+- [Train Neural Networks Using a Genetic Algorithm in Python with PyGAD](https://heartbeat.fritz.ai/train-neural-networks-using-a-genetic-algorithm-in-python-with-pygad-862905048429)
+- [Probabilistic Bayesian Neural Networks](https://keras.io/examples/keras_recipes/bayesian_neural_networks/?s=09)
+
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -107,6 +120,7 @@
 - [Federated Learning for Mobile Keyboard Prediction by Andrew Hard, Kanishka Rao, Rajiv Mathews, Swaroop Ramaswamy, Franc ̧oise Beaufays Sean Augenstein, Hubert Eichner, Chloe ́ Kiddon, Daniel Ramage](https://arxiv.org/pdf/1811.03604v2.pdf)
 - [The future of digital health with federated learning](https://www.nature.com/articles/s41746-020-00323-1)
 - [Federated Optimization: Distributed Machine Learning for On-Device Intelligence by Jakub Konecny, H. Brendan McMahan, Daniel Ramage, Peter Richtarik ](https://arxiv.org/pdf/1610.02527.pdf)
+- [Private AI — Federated Learning with PySyft and PyTorch](https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
 
 ### Programming Language
 #### Haskell
@@ -114,6 +128,14 @@
 - [Haskell Problems For a New Decade](https://www.stephendiehl.com/posts/decade.html)
 #### Rust 
 - [Monads and GATS in nightly Rust by Michale Snoyman](https://libhunt.com/ahoy/messages/HSVzh8JwUp1NoGeAnGYhSmWva6RgugS8/click?signature=f220840e82ba229d0341e142dc1c2321159dc22f&url=https%3A%2F%2Fwww.fpcomplete.com%2Fblog%2Fmonads-gats-nightly-rust)
+- [Prefer Rust to C/C++ for new code](http://cliffle.com/blog/prefer-rust/)
+- [Rustdoc performance improvements](https://blog.rust-lang.org/inside-rust/2021/01/15/rustdoc-performance-improvements.html)
+- [Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
+- [Rust in Production: 1Password](https://serokell.io/blog/rust-in-production-1password)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Rust Language Cheat Sheet](https://cheats.rs)
+- [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies)
+
 #### Python
 - [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
 - [Beam Python SDK’s - Beam 2.26.0](https://beam.apache.org/blog/dataframe-api-preview-available/)
@@ -125,4 +147,5 @@
 - [An autoML framework & toolkit for machine learning on graphs by THUMNLab](https://github.com/THUMNLab/AutoGL)
 - [Creating an interactive datetime filter with Pandas and Streamlit by M Khorasani](https://towardsdatascience.com/creating-an-interactive-datetime-filter-with-pandas-and-streamlit-2f6818e90aed?source=social.tw)
 - [Revisiting Numpy and ndarray by Revisiting Numpy and ndarray](https://towardsdatascience.com/revisiting-numpy-and-ndarray-e1e5f9a69791?source=social.tw)
-
+- [Enabling low code graph data apps with Amazon Neptune and Graphistry by Leo Meyerovich, Dave Bechberger, and Taylor Riggan](https://aws.amazon.com/blogs/database/enabling-low-code-graph-data-apps-with-amazon-neptune-and-graphistry/)
+- [DocumentDB and MongoDB compatibility](https://www.isdocumentdbreallymongodb.com/?fbclid=IwAR0e92aPp2wyoUaAAGyt4cNCPWo9zRY9_qEuDMH5Pw24hZpJ872jIbnhRNg)
