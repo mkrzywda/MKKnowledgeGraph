@@ -3,7 +3,7 @@
 ## 2nd February 2021
 
 ### Artificial Intelligence
-- 
+- Question Answering over Knowledge Graphs, QAnswer (https://the-qa-company.com)
 - 
 - 
 
