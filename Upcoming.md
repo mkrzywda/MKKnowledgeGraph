@@ -1,6 +1,6 @@
 # Upcoming Topic
 
-## 2nd February 2021
+## 9nd February 2021
 
 ### Artificial Intelligence
 - 
@@ -31,25 +31,31 @@
 - 
 - 
 - 
+
 ### Programming Languages
 - 
 - 
 - 
+
 ##### Rust
 - 
 - 
 - 
+
 ##### Haskell
 - 
 - 
 - 
+
 ##### Python
 - 
 - 
 - 
+
 ##### C++
-
-
+- 
+- 
+-
 
 ### Others
 - 

@@ -46,6 +46,9 @@
 - [[PL] Rozpoznawanie obrazów medycznych – analiza zbioru medical MNIST](https://deepdrive.pl/rozpoznawanie-obrazow-medycznych-analiza-zbioru-medical-mnist/)
 - [[MATLAB] Network Visualization Based on Occlusion Sensitivity](https://blogs.mathworks.com/deep-learning/2017/12/15/network-visualization-based-on-occlusion-sensitivity/?s_tid=blogs_rc_2)
 - [[MATLAB] Using Deep Learning for Complex Physical Processes Posted by Johanna Pingel](https://blogs.mathworks.com/deep-learning/2020/12/10/using-deep-learning-for-complex-physical-processes/)
+- [Natural language image search with a Dual Encoder](https://keras.io/examples/nlp/nl_image_search/)
+- [MATLAB Benchmark Code for WiDS Datathon 2021](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2021-b445e8c0e3f2)
+- [Transfer Learning for Reinforcement Learning Domains: A Survey](https://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -55,6 +58,9 @@
 - [How Knowledge Graphs Will Transform Data Management And Business by by Jennifer L. Schenker](https://theinnovator.news/how-knowledge-graphs-will-transform-data-management-and-business/)
 - [Grakn 2.0 Alpha: best practices of Distributed Systems and Computer Science](https://blog.grakn.ai/grakn-2-0-alpha-best-practices-of-distributed-systems-and-computer-science-960da9a9bc44)
 - [Language Models are Open Knowledge Graphs .. but are hard to mine!](https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d)
+- [RAPIDS - Genetic Algorithm KNN - Notebook](https://www.kaggle.com/cdeotte/rapids-genetic-algorithm-knn-cv-0-01840)
+- [Visualizing feature vectors/embeddings using t-SNE and PCA](https://towardsdatascience.com/visualizing-feature-vectors-embeddings-using-pca-and-t-sne-ef157cea3a42)
+- [How to Speed up Your K-Means Clustering by up to 10x Over Scikit-Learn](https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72)
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)
@@ -79,6 +85,8 @@
 - [Oracle TimesTen: An In-Memory Databasefor Enterprise Applications by Tirthankar Lahiri, Marie-Anne Neimat, Steve Folkman](http://sites.computer.org/debull/A13june/TimesTen1.pdf)
 - [Memgraph Playground](https://playground.memgraph.com)
 - [Graph Databases For Dummies by Dr. Jim Webber and Rik Van Bruggen](https://neo4j.com/graph-databases-for-dummies/?ref=blog)
+- [Nebula Graph](https://github.com/vesoft-inc/nebula)
+- [Implementing a 24-Join SQL Query in a Graph Database](https://www.tigergraph.com/blog/implementing-a-24-join-sql-query-in-a-graph-database/?utm_content=152826643&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
@@ -94,6 +102,7 @@
 - [Graph Data Science For Dummies by Amy Hodler and Mark Needham](https://neo4j.com/graph-data-science-for-dummies/?ref=blog))
 - [Class Imbalance and Cost-Sensitive Decision Trees: A Unified Survey Based on a Core Similarity by Michael J. Siers, Zahidul Islam](https://dl.acm.org/doi/abs/10.1145/3415156)
 - [Scalable Pattern Matching in Metadata Graphs via Constraint Checking by Tahsin Reza, Hassan Halawa, Matei Ripeanu, Geoffrey Sanders and Roger A. Pearce](https://dl.acm.org/doi/pdf/10.1145/3434391)
+- [Question Answering over Knowledge Graphs, QAnswer](https://the-qa-company.com)   
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -109,7 +118,7 @@
 - [InShort: Occlusion Analysis for Explaining DNNs](https://towardsdatascience.com/inshort-occlusion-analysis-for-explaining-dnns-d0ad3af9aeb6)
 - [Train Neural Networks Using a Genetic Algorithm in Python with PyGAD](https://heartbeat.fritz.ai/train-neural-networks-using-a-genetic-algorithm-in-python-with-pygad-862905048429)
 - [Probabilistic Bayesian Neural Networks](https://keras.io/examples/keras_recipes/bayesian_neural_networks/?s=09)
-
+- [Graph Attention Networks Under the Hood](https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87)
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -126,6 +135,7 @@
 #### Haskell
 - [Write Yourself a Scheme in 48 Hours - An Introduction to Haskell through Example by Wikibooks contributors originally by Jonathan Tang](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf?fbclid=IwAR3XIN6jof36_5Vjc5x3ruHE2TM2P4COhPdU4Q2Xrvdb8e51G239TDN6i1A)
 - [Haskell Problems For a New Decade](https://www.stephendiehl.com/posts/decade.html)
+- (10 Reasons to Use Haskell)[https://serokell.io/blog/10-reasons-to-use-haskell]
 #### Rust 
 - [Monads and GATS in nightly Rust by Michale Snoyman](https://libhunt.com/ahoy/messages/HSVzh8JwUp1NoGeAnGYhSmWva6RgugS8/click?signature=f220840e82ba229d0341e142dc1c2321159dc22f&url=https%3A%2F%2Fwww.fpcomplete.com%2Fblog%2Fmonads-gats-nightly-rust)
 - [Prefer Rust to C/C++ for new code](http://cliffle.com/blog/prefer-rust/)
@@ -135,6 +145,7 @@
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Rust Language Cheat Sheet](https://cheats.rs)
 - [9 Companies That Use Rust in Production](https://serokell.io/blog/rust-companies)
+- [Metaprogramming in Rust](https://doc.rust-lang.org/src/core/hash/mod.rs.html#637)
 
 #### Python
 - [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
