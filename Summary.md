@@ -125,8 +125,8 @@
 - [Train Neural Networks Using a Genetic Algorithm in Python with PyGAD](https://heartbeat.fritz.ai/train-neural-networks-using-a-genetic-algorithm-in-python-with-pygad-862905048429)
 - [Probabilistic Bayesian Neural Networks](https://keras.io/examples/keras_recipes/bayesian_neural_networks/?s=09)
 - [Graph Attention Networks Under the Hood](https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87)
-- [https://arxiv.org/pdf/2007.05674](Illuminating Mario Scenes in the Latent Space of a Generative Adversarial Network)
-- [https://arxiv.org/pdf/2102.00554v1.pdf](Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks)
+- [Illuminating Mario Scenes in the Latent Space of a Generative Adversarial Network](https://arxiv.org/pdf/2007.05674)
+- [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/pdf/2102.00554v1.pdf)
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
