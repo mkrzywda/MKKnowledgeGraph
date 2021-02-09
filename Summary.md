@@ -49,6 +49,10 @@
 - [Natural language image search with a Dual Encoder](https://keras.io/examples/nlp/nl_image_search/)
 - [MATLAB Benchmark Code for WiDS Datathon 2021](https://medium.com/mathworks/matlab-benchmark-code-for-wids-datathon-2021-b445e8c0e3f2)
 - [Transfer Learning for Reinforcement Learning Domains: A Survey](https://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
+- [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+- [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/?ncid=so-link-27377#cid=_so-link_en-us)
+- [Metrics and continuity in reinforcement learning](arxiv.org/abs/2102.01514)
+- [Machine learning accelerated computational fluid dynamics](https://deepai.org/publication/machine-learning-accelerated-computational-fluid-dynamics)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -103,6 +107,8 @@
 - [Class Imbalance and Cost-Sensitive Decision Trees: A Unified Survey Based on a Core Similarity by Michael J. Siers, Zahidul Islam](https://dl.acm.org/doi/abs/10.1145/3415156)
 - [Scalable Pattern Matching in Metadata Graphs via Constraint Checking by Tahsin Reza, Hassan Halawa, Matei Ripeanu, Geoffrey Sanders and Roger A. Pearce](https://dl.acm.org/doi/pdf/10.1145/3434391)
 - [Question Answering over Knowledge Graphs, QAnswer](https://the-qa-company.com)   
+- [Understanding Graph Embeddings](https://www.tigergraph.com/blog/understanding-graph-embeddings/?utm_content=153275691&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
+
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -119,6 +125,8 @@
 - [Train Neural Networks Using a Genetic Algorithm in Python with PyGAD](https://heartbeat.fritz.ai/train-neural-networks-using-a-genetic-algorithm-in-python-with-pygad-862905048429)
 - [Probabilistic Bayesian Neural Networks](https://keras.io/examples/keras_recipes/bayesian_neural_networks/?s=09)
 - [Graph Attention Networks Under the Hood](https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87)
+- [https://arxiv.org/pdf/2007.05674](Illuminating Mario Scenes in the Latent Space of a Generative Adversarial Network)
+- [https://arxiv.org/pdf/2102.00554v1.pdf](Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks)
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -135,7 +143,8 @@
 #### Haskell
 - [Write Yourself a Scheme in 48 Hours - An Introduction to Haskell through Example by Wikibooks contributors originally by Jonathan Tang](https://upload.wikimedia.org/wikipedia/commons/a/aa/Write_Yourself_a_Scheme_in_48_Hours.pdf?fbclid=IwAR3XIN6jof36_5Vjc5x3ruHE2TM2P4COhPdU4Q2Xrvdb8e51G239TDN6i1A)
 - [Haskell Problems For a New Decade](https://www.stephendiehl.com/posts/decade.html)
-- (10 Reasons to Use Haskell)[https://serokell.io/blog/10-reasons-to-use-haskell]
+- [10 Reasons to Use Haskell](https://serokell.io/blog/10-reasons-to-use-haskell)
+
 #### Rust 
 - [Monads and GATS in nightly Rust by Michale Snoyman](https://libhunt.com/ahoy/messages/HSVzh8JwUp1NoGeAnGYhSmWva6RgugS8/click?signature=f220840e82ba229d0341e142dc1c2321159dc22f&url=https%3A%2F%2Fwww.fpcomplete.com%2Fblog%2Fmonads-gats-nightly-rust)
 - [Prefer Rust to C/C++ for new code](http://cliffle.com/blog/prefer-rust/)
@@ -150,6 +159,7 @@
 #### Python
 - [Parser Combinators: a Walkthrough](https://hasura.io/blog/parser-combinators-walkthrough/)
 - [Beam Python SDK’s - Beam 2.26.0](https://beam.apache.org/blog/dataframe-api-preview-available/)
+- [pyribs](https://github.com/icaros-usc/pyribs)
 
 ### Others
 - [GraphQL vs REST: What to Choose in 2020?](https://softwareplanetgroup.co.uk/graphql-vs-rest-what-to-choose-in-2020/)

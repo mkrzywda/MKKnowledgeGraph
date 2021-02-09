@@ -1,6 +1,6 @@
 # Upcoming Topic
 
-## 9nd February 2021
+## 16th February 2021
 
 ### Artificial Intelligence
 - 

@@ -37,11 +37,12 @@ Rules:
 - [19th January 2021](weekly/19-01-2021.md)
 - [26th January 2021](weekly/26-01-2021.md)
 - [2nd February 2021](weekly/02-02-2021.md)
-
+- [9nd February 2021](weekly/09-02-2021.md)
 
 # To be published
 
-- [9nd February 2021](weekly/09-02-2021.md)
+- [16th February 2021](weekly/16-02-2021.md)
+
 
 ------
 
