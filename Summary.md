@@ -53,6 +53,9 @@
 - [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/?ncid=so-link-27377#cid=_so-link_en-us)
 - [Metrics and continuity in reinforcement learning](arxiv.org/abs/2102.01514)
 - [Machine learning accelerated computational fluid dynamics](https://deepai.org/publication/machine-learning-accelerated-computational-fluid-dynamics)
+- [Symbolic Behaviour in Artificial Intelligence](https://arxiv.org/abs/2102.03406)
+- [What 2021 hold for Graph ML?](https://towardsdatascience.com/predictions-and-hopes-for-graph-ml-in-2021-6af2121c3e3d)
+- [Building Recommender Systems Faster Using Jupyter Notebooks from NGC](https://developer.nvidia.com/blog/building-recommender-systems-faster-using-jupyter-notebooks-from-ngc/?ncid=so-twit-98253#cid=ngcev_so-twit_en-us)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -65,6 +68,8 @@
 - [RAPIDS - Genetic Algorithm KNN - Notebook](https://www.kaggle.com/cdeotte/rapids-genetic-algorithm-knn-cv-0-01840)
 - [Visualizing feature vectors/embeddings using t-SNE and PCA](https://towardsdatascience.com/visualizing-feature-vectors-embeddings-using-pca-and-t-sne-ef157cea3a42)
 - [How to Speed up Your K-Means Clustering by up to 10x Over Scikit-Learn](https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72)
+- [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)
@@ -91,6 +96,8 @@
 - [Graph Databases For Dummies by Dr. Jim Webber and Rik Van Bruggen](https://neo4j.com/graph-databases-for-dummies/?ref=blog)
 - [Nebula Graph](https://github.com/vesoft-inc/nebula)
 - [Implementing a 24-Join SQL Query in a Graph Database](https://www.tigergraph.com/blog/implementing-a-24-join-sql-query-in-a-graph-database/?utm_content=152826643&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
+- [Announcing the Memgraph 1.3 Release By Josip Seljan](https://memgraph.com/blog/memgraph-1-3-release)
+
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
