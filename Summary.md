@@ -56,6 +56,10 @@
 - [Symbolic Behaviour in Artificial Intelligence](https://arxiv.org/abs/2102.03406)
 - [What 2021 hold for Graph ML?](https://towardsdatascience.com/predictions-and-hopes-for-graph-ml-in-2021-6af2121c3e3d)
 - [Building Recommender Systems Faster Using Jupyter Notebooks from NGC](https://developer.nvidia.com/blog/building-recommender-systems-faster-using-jupyter-notebooks-from-ngc/?ncid=so-twit-98253#cid=ngcev_so-twit_en-us)
+- [Trusting Robots to Navigate New Spaces](https://www.mathworks.com/company/mathworks-stories/slam-mapping-algorithm-for-autonomous-vehicles.html)
+- [The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm?es_id=eb05388f0b)
+- [A Plethora of Machine Learning Articles: Part 1](https://www.datasciencecentral.com/profiles/blogs/a-plethora-of-machine-learning-articles-part-1)
+- [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers)
 
 ### Knowledge representation and reasoning
 - [Representation and reasoning algorithm about fuzzy knowledge and its three kinds of negations](https://ieeexplore.ieee.org/document/5486715)
@@ -115,7 +119,7 @@
 - [Scalable Pattern Matching in Metadata Graphs via Constraint Checking by Tahsin Reza, Hassan Halawa, Matei Ripeanu, Geoffrey Sanders and Roger A. Pearce](https://dl.acm.org/doi/pdf/10.1145/3434391)
 - [Question Answering over Knowledge Graphs, QAnswer](https://the-qa-company.com)   
 - [Understanding Graph Embeddings](https://www.tigergraph.com/blog/understanding-graph-embeddings/?utm_content=153275691&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
-
+-[Cleora: A Simple, Strong and Scalable Graph Embedding Scheme](https://arxiv.org/pdf/2102.02302.pdf)
 
 ### Neural Networks
 - [Quaternion Graph Neural Networks by Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung](https://arxiv.org/abs/2008.05089)
@@ -134,6 +138,8 @@
 - [Graph Attention Networks Under the Hood](https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87)
 - [Illuminating Mario Scenes in the Latent Space of a Generative Adversarial Network](https://arxiv.org/pdf/2007.05674)
 - [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/pdf/2102.00554v1.pdf)
+- [Joint Object Detection and Multi-Object Tracking with Graph Neural Networks](http://www.xinshuoweng.com/projects/GNNDetTrk/)
+-[Graph Neural Networks for Drug Development](https://grlearning.github.io/slides/zitnik.pdf)
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
@@ -177,3 +183,4 @@
 - [Revisiting Numpy and ndarray by Revisiting Numpy and ndarray](https://towardsdatascience.com/revisiting-numpy-and-ndarray-e1e5f9a69791?source=social.tw)
 - [Enabling low code graph data apps with Amazon Neptune and Graphistry by Leo Meyerovich, Dave Bechberger, and Taylor Riggan](https://aws.amazon.com/blogs/database/enabling-low-code-graph-data-apps-with-amazon-neptune-and-graphistry/)
 - [DocumentDB and MongoDB compatibility](https://www.isdocumentdbreallymongodb.com/?fbclid=IwAR0e92aPp2wyoUaAAGyt4cNCPWo9zRY9_qEuDMH5Pw24hZpJ872jIbnhRNg)
+- [Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550)

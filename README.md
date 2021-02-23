@@ -31,18 +31,24 @@ Rules:
 - share information about new weekly in yours social media :smile:
 
 # Already Published
+## 2020
+### December
 - [29th December 2020](weekly/29-12-2020.md)
+## 2021
+### January
 - [5th January 2021](weekly/05-01-2021.md)
 - [12th January 2021](weekly/12-01-2021.md)
 - [19th January 2021](weekly/19-01-2021.md)
 - [26th January 2021](weekly/26-01-2021.md)
+### February
 - [2nd February 2021](weekly/02-02-2021.md)
 - [9th February 2021](weekly/09-02-2021.md)
 - [16th February 2021](weekly/16-02-2021.md)
+- [23th February 2021](weekly/23-02-2021.md)
 
 # To be published
 
-- [23th February 2021](weekly/23-02-2021.md)
+- [2nd March 2021](weekly/02-03-2021.md)
 
 
 ------
