@@ -73,7 +73,7 @@
 - [Visualizing feature vectors/embeddings using t-SNE and PCA](https://towardsdatascience.com/visualizing-feature-vectors-embeddings-using-pca-and-t-sne-ef157cea3a42)
 - [How to Speed up Your K-Means Clustering by up to 10x Over Scikit-Learn](https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72)
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-
+- [ANFIS based Spam Filtering Model for Social Networking Websites](https://research.ijcaonline.org/volume44/number11/pxc3878635.pdf)
 
 ### Databases
 - [Fluree 1.0: A 'Blockchain-Inside' Graph Database Goes Open Source ](https://flur.ee/2020/10/19/fluree-releases-version-1-0-under-open-source-license/)
@@ -101,7 +101,9 @@
 - [Nebula Graph](https://github.com/vesoft-inc/nebula)
 - [Implementing a 24-Join SQL Query in a Graph Database](https://www.tigergraph.com/blog/implementing-a-24-join-sql-query-in-a-graph-database/?utm_content=152826643&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3693966)
 - [Announcing the Memgraph 1.3 Release By Josip Seljan](https://memgraph.com/blog/memgraph-1-3-release)
-
+- [Evolving Schemaless into a Distributed SQL Database](https://eng.uber.com/schemaless-sql-database/)
+- [What the heck is time-series data (and why do I need a time-series database)?](https://blog.timescale.com/blog/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563/?utm_source=db-weekly-sponsor&utm_medium=email&utm_campaign=db-weekly-sponsor-feb-2021&utm_content=wth-blog)
+- [ScyllaDB: SQL to NoSQL: Architecture Differences and Considerations for Migration](https://go.scylladb.com/sql-to-nosql-architecture-wp-thanks.html?utm_source=Email&utm_medium=Whitepaper&utm_campaign=SQL-NoSQL-NUR-AW&mkt_tok=NzkxLVFCRi0zNTAAAAF7eY17nKevcNZSuztZdrpjPH8E2WpjJCkzOZX7YxPTHOy0j3ogCtyzp84IdA6o5OkM2Y5e8noAbdendLr8PbfPnw4htWrtfr1ibgtySk7XHQ)
 
 ### Graphs Algorithms
 - [Graph Algorithms for Community Detection & Recommendations by Mark Needham & Amy E. Hodler](https://neo4j.com/blog/graph-algorithms-community-detection-recommendations/?ref=social-blog)
@@ -139,7 +141,11 @@
 - [Illuminating Mario Scenes in the Latent Space of a Generative Adversarial Network](https://arxiv.org/pdf/2007.05674)
 - [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/pdf/2102.00554v1.pdf)
 - [Joint Object Detection and Multi-Object Tracking with Graph Neural Networks](http://www.xinshuoweng.com/projects/GNNDetTrk/)
--[Graph Neural Networks for Drug Development](https://grlearning.github.io/slides/zitnik.pdf)
+- [Graph Neural Networks for Drug Development](https://grlearning.github.io/slides/zitnik.pdf)
+- [MolCLR: Molecular Contrastive Learning of Representations via Graph Neural Networks](https://arxiv.org/pdf/2102.10056)
+- [Variationally Regularized Graph-based Representation Learning for Electronic Health Records](https://arxiv.org/pdf/1912.03761)
+- [Finding new COVID-19 treatments with Graph Convolutional Networks (GCN)](https://blog.griddynamics.com/finding-new-covid-19-treatments-with-graph-neural-networks-gnn/)
+
 
 ### Federated Learning
 - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)

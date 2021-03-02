@@ -45,10 +45,12 @@ Rules:
 - [9th February 2021](weekly/09-02-2021.md)
 - [16th February 2021](weekly/16-02-2021.md)
 - [23th February 2021](weekly/23-02-2021.md)
+### March
+- [2nd March 2021](weekly/02-03-2021.md)
 
 # To be published
 
-- [2nd March 2021](weekly/02-03-2021.md)
+- [9nd March 2021](weekly/09-03-2021.md)
 
 
 ------
