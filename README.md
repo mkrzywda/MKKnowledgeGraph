@@ -3,15 +3,13 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/mkrzywda/MKKnowledgeGraph?style=social)
 ![GitHub](https://img.shields.io/github/license/mkrzywda/MKKnowledgeGraph?style=flat-square)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mkrzywda/MKKnowledgeGraph)
-
-
 # What means MK Knowledge Graph
 
 ![Logo](MK_KnowledgeGraph_Logo.png)
 
 Hello!  
 
-My name is [Maciej Krzywda](https://github.com/mkrzywda). I created this repository to share a weekly set of links that I found valuable and inspiring. I hope that you'll like it! 
+My name is [Maciej Krzywda](https://github.com/mkrzywda). I created this repository to share a monthly set of links that I found valuable and inspiring. I hope that you'll like it! 
 
 I looked for the best name for space in which I like work and do research. Databases, Graph Algorithms and broadly understood Artificial Intelligence crossing with functional programming like Haskell is a topics in which I work daily. So, Graphs which is the most humanity data structure (because shows connection between nodes which representate area in which I working) make the big Knowleadge Graph, so I think this is a the best name which I can think up :smile:
 
@@ -50,7 +48,7 @@ Rules:
 
 # To be published
 
-- [9nd March 2021](weekly/09-03-2021.md)
+- [2nd April 2021](weekly/09-04-2021.md)
 
 
 ------
